@@ -7,6 +7,12 @@
 
 📫Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Astar0th9-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Astar0th9) [![Yandex Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:astar0th-9@yandex.ru)  
 
+---
+
+Проекты над которыми я работал:
+<a href="https://play.google.com/store/apps/details?id=com.dobrart.tower.defender">Tower-Defense: Castle Crashers</a>
+<a href="https://play.google.com/store/apps/details?id=com.DobrArt.TheEvolution">Туземцы Реальная Жизнь: Споре</a>
+
 --- 
 
 ### 💻Технологии  
