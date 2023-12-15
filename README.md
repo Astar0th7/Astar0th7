@@ -10,6 +10,7 @@
 ---
 
 Проекты над которыми я работал:<br>
+<a href="https://github.com/FeliRud/PhotoGit">Photo</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.dobrart.tower.defender">Tower-Defense: Castle Crashers</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.DobrArt.TheEvolution">Туземцы Реальная Жизнь: Споре</a>
 
