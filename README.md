@@ -10,7 +10,6 @@
 ---
 
 Проекты над которыми я работал:<br>
-<a href="https://github.com/FeliRud/PhotoGit">Photo</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.demon.world_mmorpg_online_pvp_pve_2d">Demon World: Online Survival</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.dobrart.tower.defender">Tower-Defense: Castle Crashers</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.DobrArt.TheEvolution">Туземцы Реальная Жизнь: Споре</a>
