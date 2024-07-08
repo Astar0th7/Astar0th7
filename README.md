@@ -8,7 +8,6 @@
 📫Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Astar0th9-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Astar0th9) [![Yandex Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:astar0th-9@yandex.ru)  
 ---
 Игры в рамках собсвтенного проекта DarkMistStudio:<br>
-<a href="https://yandex.ru/games/developer/77700#app=285211">Garden of doom</a><br>
 <a href="https://store.steampowered.com/app/2602710/Pholee/">Pholee</a><br>
 
 ---
