@@ -9,6 +9,7 @@
 ---
 Игры в рамках собсвтенного проекта DarkMistStudio:<br>
 <a href="https://store.steampowered.com/app/2602710/Pholee/">Pholee</a><br>
+<a href="https://yandex.ru/games/developer/77700#app=352761">Бити - Симулятор робота-пылесоса</a><br>
 
 ---
 
