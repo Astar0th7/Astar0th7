@@ -8,8 +8,7 @@
 📫Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Astar0th9-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Astar0th9) [![Yandex Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:astar0th-9@yandex.ru)  
 ---
 Игры в рамках собсвтенного проекта DarkMistStudio:<br>
-<a href="https://store.steampowered.com/app/2602710/Pholee/">Pholee</a><br>
-<a href="https://yandex.ru/games/developer/77700#app=352761">Бити - Симулятор робота-пылесоса</a><br>
+<a href="https://store.steampowered.com/app/2602710/Pholee/">Pholee</a>
 
 ---
 
@@ -39,8 +38,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" title="Android" alt="Android" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinciResolve" alt="DaVinciResolve" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" title="YouTube" alt="YouTube" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" height="40"/>&nbsp
 </div>  
 
 ---
